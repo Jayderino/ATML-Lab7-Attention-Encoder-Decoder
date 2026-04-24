@@ -53,7 +53,7 @@ SVKM's NMIMS
 
 ## 🖥️ Application Preview
 
-![App UI](ATML_Lab7_image.png)
+![App UI](ATML_Lab7_Image.png)
 
 ---
 
