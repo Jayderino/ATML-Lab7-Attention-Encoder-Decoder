@@ -74,7 +74,7 @@ SVKM's NMIMS
 
 | Input       | Attention Output | Simple Output |
 | ----------- | ---------------- | ------------- |
-| how are you | आप क्या है       | यह भी         |
+| who are you | आप क्या है       | यह भी         |
 
 ---
 
